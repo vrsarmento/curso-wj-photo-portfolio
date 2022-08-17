@@ -1,9 +1,0 @@
-# Boas Práticas - Merge / Rebase
-
-> Está atualizando sua branch pegando as coisas do main?
-
-USE REBASE (PULL --REBASE)
-
-> Terminou sua feature na branch e quer jogar para o main?
-
-USE MERGE
